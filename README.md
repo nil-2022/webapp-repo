@@ -8,12 +8,3 @@ AWS CodeBuild is a fully managed continuous integration service that compiles so
 AWS CodeDeploy is a fully managed deployment service that automates software deployments to a variety of compute services such as Amazon EC2, AWS Fargate, AWS Lambda, and your on-premises servers. AWS CodeDeploy makes it easier for you to rapidly release new features, helps you avoid downtime during application deployment, and handles the complexity of updating your applications. You can use AWS CodeDeploy to automate software deployments, eliminating the need for error-prone manual operations. 
 
 
-GitHub Repo: https://github.com/MohammedHousa/AWS-Developer-Tools
-
-Tutorials:
-1. How to work with AWS CodeCommit https://youtu.be/cUDrOT5AsnM
-2. How to work with AWS CodeBuild https://youtu.be/NB2TlOOXUQM
-3. How to work with AWS CodeDeploy part 1 https://youtu.be/Pirv1h6nzY4
-4. How to work with AWS CodeDeploy part 2 https://youtu.be/iN4Q6vFsggY
-5. How to work with AWS CodeDeploy part 3 https://youtu.be/CiMtScKahwo
-6. How to work with AWS CodePipline with Manual Approval https://youtu.be/hgYAFw14yR0
